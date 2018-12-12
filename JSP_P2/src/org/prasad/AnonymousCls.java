@@ -47,7 +47,7 @@ public class AnonymousCls {
 			}
 			
 		};
-		person.personDetails();
+ 	person.personDetails();
 		
 	}
 
