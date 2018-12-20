@@ -59,6 +59,32 @@ public class EqualsExample {
 		System.out.println(person2.equals(person1));
 		System.out.println(person1 == person2);
 		
+		System.out.println("----------------------------");
+		
+		String t1 = "Prasad";
+		String t2 = "PrasadRayudu".substring(0, 6);
+		
+		System.out.println(t2);
+		
+		System.out.println(t1==t2);
+	
+		
+		
+		System.out.println(t1.equals(t2));
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 	}
